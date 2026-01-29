@@ -1,0 +1,10 @@
+Information retrieval is the activity of obtaining information system resources.
+Boolean model uses AND, OR, NOT operators to combine search terms.
+Python is a programming language good for text processing.
+Information retrieval can be implemented using various models.
+Boolean logic is essential in search engines.
+Search engines use indexing to speed up information retrieval.
+Text processing involves tokenization and normalization techniques.
+Machine learning models can improve search accuracy.
+Natural language processing helps understand user queries better.
+Web crawlers collect documents for search engine indexing.
